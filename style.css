@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+  }
+  h1 {
+    color: aqua;
+  }
+  a:hover{
+    color: brown;
+  }
+  .grid-container {
+    display:grid;
+    grid-template-columns: repeat(4,100px);
+  }
